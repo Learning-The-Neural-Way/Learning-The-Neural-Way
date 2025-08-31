@@ -1,0 +1,45 @@
+Copyright (c) 2025-2026 LearningTheNeuralWay Owner.
+All rights reserved.  
+
+E-Mail: learningtheneuralway@gmail.com  
+Instagram: https://www.instagram.com/learningtheneuralway  
+YouTube: https://youtube.com/@learningtheneuralway  
+Github : https://github.com/Learning-The-Neural-Way
+
+Permission is hereby granted, free of charge, to any person obtaining a copy 
+of this roadmap, associated resources, and project files (the "Materials"),
+to use, copy, or modify the Materials for personal learning, research, 
+and non-commercial educational purposes, subject to the following conditions:
+
+1. Attribution must be given to the original source (this repository) in a
+   reasonably visible manner, including links to the authors' social accounts.
+   
+2. The Materials, or substantial portions of them in any form, may NOT be used 
+   as the primary content of a paid or monetized product or service, including
+   but not limited to:
+   - Paid online/offline courses
+   - Bootcamps or workshops
+   - Subscription apps or platforms
+   - Paid books or e-books
+   - Gated memberships or private tutoring services
+   - Consulting services using the Materials directly
+
+3. Redistribution on platforms such as YouTube, Instagram, TikTok, or other
+   media is permitted only if:
+   - The content remains free to access, and
+   - The original source (this repository) is clearly credited, and
+   - The authors and their social accounts are clearly mentioned and visible.
+
+4. Any income generated directly from redistribution or derivative use of these
+   Materials without a commercial license must be shared with the authors at a 
+   minimum of fifty percent (50%).  
+
+Commercial licenses may be granted separately by contacting the maintainers.
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE MATERIALS OR THE USE OR OTHER DEALINGS IN THE
+MATERIALS.
